@@ -12,7 +12,7 @@ public class Bot2 {
 	public static void main(String[] args){
 		int port = 3000;
 		String ip = "localhost";
-		Client client = new Client(ip, port,new FirstStepBot("bot2",new BoardRenderer()));
+		Client client = new Client(ip, port,new BorschIvanBot(new BoardRenderer()));
 		client.run();
 	}
 
