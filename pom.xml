@@ -24,17 +24,17 @@
 		<dependency>
 			<groupId>checkers</groupId>
 			<artifactId>client</artifactId>
-			<version>1.0</version>
+			<version>1.5.FIXED</version>
 		</dependency>
 		<dependency>
 			<groupId>checkers</groupId>
 			<artifactId>server</artifactId>
-			<version>1.0</version>
+			<version>1.5.FIXED</version>
 		</dependency>
 		<dependency>
 			<groupId>checkers</groupId>
 			<artifactId>utils</artifactId>
-			<version>1.1</version>
+			<version>1.5.FIXED</version>
 		</dependency>
 	</dependencies>
 
